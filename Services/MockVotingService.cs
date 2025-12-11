@@ -8,9 +8,9 @@ public class MockVotingService : VotingService.VotingServiceBase
 {
     private static readonly List<CandidateResult> Results = new()
     {
-        new CandidateResult { Id = 1, Name = "Alice", Votes = 0 },
-        new CandidateResult { Id = 2, Name = "Bob",   Votes = 0 },
-        new CandidateResult { Id = 3, Name = "Carol", Votes = 0 }
+        new CandidateResult { Id = 1, Name = "Andre", Votes = 0 },
+        new CandidateResult { Id = 2, Name = "Bruno",   Votes = 0 },
+        new CandidateResult { Id = 3, Name = "Carlos", Votes = 0 }
     };
 
     private static readonly HashSet<string> UsedCredentials = new();
