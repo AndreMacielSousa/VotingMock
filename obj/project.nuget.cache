@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VbTZELD3wA4=",
+  "dgSpecHash": "/jDII5p4zrE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock\\VotingMock.csproj",
+  "projectFilePath": "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Grupo EMAC\\.nuget\\packages\\google.protobuf\\3.27.0\\google.protobuf.3.27.0.nupkg.sha512",
     "C:\\Users\\Grupo EMAC\\.nuget\\packages\\grpc.aspnetcore\\2.64.0\\grpc.aspnetcore.2.64.0.nupkg.sha512",

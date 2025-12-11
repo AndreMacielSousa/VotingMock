@@ -9,4 +9,9 @@ app.MapGrpcService<MockRegistrationService>();
 
 app.MapGet("/", () => "Voting Mock Service Running");
 
-app.Run();
+//local host
+//app.Run();
+
+var port = Environment.GetEnvironmentVariable("PORT") ?? "9091";
+app.Run($"http://0.0.0.0:{port}");
+

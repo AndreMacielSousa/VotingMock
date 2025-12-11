@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock\\VotingMock.csproj": {}
+    "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock\\VotingMock.csproj": {
+    "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock\\VotingMock.csproj",
+        "projectUniqueName": "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock.csproj",
         "projectName": "VotingMock",
-        "projectPath": "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock\\VotingMock.csproj",
+        "projectPath": "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock.csproj",
         "packagesPath": "C:\\Users\\Grupo EMAC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\VotingMock\\obj\\",
+        "outputPath": "C:\\Users\\Grupo EMAC\\OneDrive - Universidade Aberta\\Documents\\GitHub\\VotingMock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Grupo EMAC\\AppData\\Roaming\\NuGet\\NuGet.Config"

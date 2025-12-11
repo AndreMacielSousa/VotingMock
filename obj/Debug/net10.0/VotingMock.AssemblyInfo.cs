@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VotingMock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b06d26d7e7ca11b68eed1ba0c8ed04e3a3746223")]
 [assembly: System.Reflection.AssemblyProductAttribute("VotingMock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VotingMock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
