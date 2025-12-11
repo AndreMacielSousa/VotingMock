@@ -1,0 +1,2 @@
+obj\Debug\net10.0\protos/Voter.cs \
+obj\Debug\net10.0\protos/VoterGrpc.cs: protos/voter.proto
