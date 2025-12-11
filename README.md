@@ -28,7 +28,7 @@ VotingMock/
 
 ## 🚀 2. Executar o servidor
 
-```bash
+
 git clone https://github.com/AndreMacielSousa/VotingMock.git
 cd VotingMock
 dotnet run
